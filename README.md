@@ -111,5 +111,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 **Soham Sarkar**
-* GitHub: [@CrossShot06](https://github.com/CrossShot06)
-* LinkedIn: [Soham Sarkar](https://www.linkedin.com/in/soham-sarkar-a6a0a2317/)
+* GitHub: [@subhamprasad-ops](https://github.com/subhamprasad)
+* LinkedIn: [Subham Kumar Prasad](www.linkedin.com/in/subhamprasad)
