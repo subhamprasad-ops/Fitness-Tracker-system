@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 **Soham Sarkar**
 * GitHub: [@subhamprasad-ops](https://github.com/subhamprasad)
-* LinkedIn: [Subham Kumar Prasad](www.linkedin.com/in/subhamprasad)
+* LinkedIn: [Subham Kumar Prasad](linkedin.com/in/subhamprasad)
