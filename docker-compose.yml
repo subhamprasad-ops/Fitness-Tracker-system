@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  app:
+    image: fitness-tracker-docker-image
+    container_name: fitness-tracker-docker-container
+    ports:
+      - "8001:8000"
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    command: >
+      sh -c "python manage.py collectstatic --noinput && gunicorn fitness_tracker.wsgi:application --bind 0.0.0.0:8000"
